@@ -9,8 +9,9 @@ const Navbar = () => {
       <div className="navbar">
         <FaCoins className="icon" />
         <h1>
-          Coin <span className="purple">Search</span>
+          Coin <span className="purple">Search </span>
         </h1>
+        <p>(CLICK TO GET THE COINS)</p>
       </div>
     </Link>
   );
